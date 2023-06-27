@@ -8,3 +8,4 @@
 
 <a href="https://ora.sh/misty-blush-ajvu/my-pda" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href,'_blank','noopener,noreferrer,webkitPrivateBrowsing'); return false;">Link</a>
 - [w](https://ora.sh/misty-blush-ajvu/my-pda)
+- [w](https://chat.chatgptdemo.net/)
