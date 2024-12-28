@@ -9,14 +9,14 @@
 # python venv
 - linux
   ```
-  python -m venv env
-  source env/bin/activate
+  python -m venv venv
+  source venv/bin/activate
   deactivate
   ```
 - windows
   ```
-  python -m venv env
+  python -m venv venv
   Set-ExecutionPolicy Unrestricted -Scope Process
-  .\env\Scripts\activate
+  .\venv\Scripts\activate
   deactivate
   ```
