@@ -9,6 +9,12 @@
 - ```
   setup.exe /configure Configuration.xml
   ```
+# rearm MS Office
+- `cd C:\Program Files\Microsoft Office\Office16`
+- `cscript ospp.vbs /rearm`
+
+OR
+`cscript "C:\Program Files\Microsoft Office\Office16\OSPP.VBS" /rearm`
 
 # Classic Context menu
 - Enable
